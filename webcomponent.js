@@ -2,6 +2,7 @@
     let tmpl = document.createElement('template');
     tmpl.innerHTML = `
       <style>
+     <h1>Hello World</h1>
       </style>
     `;
 
