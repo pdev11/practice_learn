@@ -6,7 +6,7 @@
      
     `;
 
-    customElements.define('com-sap-sample-helloworld1', class WidgetTemplate extends HTMLElement {
+    customElements.define('com-sap-sample-helloworld5', class WidgetTemplate extends HTMLElement {
 
 
 		constructor() {
